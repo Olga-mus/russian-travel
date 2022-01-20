@@ -1,0 +1,5 @@
+@media screen and (max-width: 767px) {
+  .footer__links :last-of-type {
+    padding-bottom: 48px;
+  }
+}
