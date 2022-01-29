@@ -2,13 +2,9 @@
   display: flex;
   align-items: flex-end;
   padding-bottom: 6px;
+  margin-right: 0;
+  list-style: none;
+  gap: 18px;
 }
 
-.header__links :first-of-type {
-  margin-right: 18px;
-  text-decoration: none;
-}
 
-.header__links :first-of-type:hover {
-  text-decoration-line: underline;
-}
